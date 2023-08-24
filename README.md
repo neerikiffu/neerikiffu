@@ -1,5 +1,7 @@
 aa oo ee 
+
 i'm neerikiffu
+
 i have no idea waht else to say
 
 i am not enough of neither an artist, a developer or a whoever i can possibly be, and don't do any of that officially 
