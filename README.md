@@ -1,12 +1,8 @@
-aa oo ee 
+### Intermediate GameMaker user, occasional artist and a vsynth music fan!
 
-i'm neerikiffu
+Working on P̶̠͑r̸̝͌o̷͓̓j̷̮͆e̶̙̅c̷͍̐t̵̲̓ ̴̞̀P̵̛̻i̷͎̋l̸͙̿c̴̛̙r̷̲͂ȏ̶̗ŵ̵̧ (unannounced!)
 
-i have no idea what else to say
-
-i am not enough of neither an artist, a developer or a whoever i can possibly be, and don't do any of that officially 
-
-...project pilcrow
+a fellow wanna-be-good-at-everything-but-don't-wanna-do-anything-for-it
 
 <!---
 neerikiffu/neerikiffu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
